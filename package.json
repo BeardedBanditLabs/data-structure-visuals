@@ -1,0 +1,20 @@
+{
+  "name": "data-structure-visuals",
+  "version": "1.0.0",
+  "description": "Data Structure Visualization  ====================== ## Goal:  Help facilitate the understanding of data structures as related to Computer Science",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "./node_modules/bower/bin/bower install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeardedBanditLabs/data-structure-visuals.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeardedBanditLabs/data-structure-visuals/issues"
+  },
+  "homepage": "https://github.com/BeardedBanditLabs/data-structure-visuals"
+}
