@@ -1,0 +1,17 @@
+{
+  "name": "data-structure-visuals",
+  "version": "0.0.0",
+  "homepage": "https://github.com/BeardedBanditLabs/data-structure-visuals",
+  "authors": [
+    "Christopher Treviño <christophertrev@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components/",
+    "test",
+    "tests"
+  ]
+}
